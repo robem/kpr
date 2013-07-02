@@ -1,0 +1,3 @@
+requires: libc_be_mem libio-io libstdc++ libpthread
+provides: 
+maintainer: your@email.example.com

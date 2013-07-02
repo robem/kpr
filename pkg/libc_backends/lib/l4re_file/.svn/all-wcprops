@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re_file
+END
+file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re_file/file.cc
+END
+mount.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re_file/mount.cc
+END
+redirect.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re_file/redirect.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re_file/Makefile
+END
+mmap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re_file/mmap.cc
+END

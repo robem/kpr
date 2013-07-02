@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/sem_noop
+END
+sem_noop.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/sem_noop/sem_noop.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/sem_noop/Makefile
+END

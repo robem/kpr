@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/socket_noop
+END
+socket_noop.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/socket_noop/socket_noop.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/socket_noop/Makefile
+END

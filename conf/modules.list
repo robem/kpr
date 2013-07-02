@@ -1,0 +1,39 @@
+# vim:set ft=l4mods:
+# Module configuration file for single image mode
+#
+# kernel, sigma0 and moe are always loaded automatically
+#
+# add kernel command line arguments with
+#  kernel fiasco arguments...
+# the seconds argument here is the binary name
+# 
+# add sigma command line arguments with
+#  sigma0 sigma0 arguments...
+# the second sigma0 is the binary name
+#
+# add roottask command line arguments with
+#  roottask moe arguments...
+# the second roottask is the binary name
+#
+# modaddr: address where modules start, relative to begin of RAM
+#   this statement is either global (before first entry statement)
+#   or per entry
+
+modaddr 0x01100000
+
+entry pong
+kernel fiasco -serial_esc -jdb_cmd=JS
+roottask moe rom/pong.lua
+module l4re
+module ned
+module pong.lua
+module io
+module fb-drv
+module x86-fb.io
+module x86-legacy.devs
+module rm_keyboard
+module rm_consoleAlt1
+module rm_log
+module pong-server
+module rm_pong-client
+

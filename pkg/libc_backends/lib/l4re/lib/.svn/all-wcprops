@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/time.c
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/gettimeofday.c
+END
+clocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/clocks.h
+END
+nanosleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/nanosleep.c
+END
+clock_settime.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/clock_settime.c
+END
+clock_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/clock_gettime.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/Makefile
+END
+sched_yield.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/sched_yield.c
+END
+settimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/settimeofday.c
+END
+usleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Studium/Praktikum/src/!svn/ver/142/trunk/src/l4/pkg/libc_backends/lib/l4re/lib/usleep.c
+END
